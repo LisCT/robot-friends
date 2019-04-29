@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Robot Friends
+
+This app allow to entrer a name via an input to make the filter. 
 
 ## Available Scripts
 
