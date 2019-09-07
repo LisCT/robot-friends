@@ -4,6 +4,11 @@
   "private": true,
   "homepage": "https://LisCT.github.io/robot-friends",
   "dependencies": {
+    "@types/jest": "^24.0.15",
+    "@types/node": "^12.6.3",
+    "@types/react": "^16.8.23",
+    "@types/react-dom": "^16.8.4",
+    "@types/react-redux": "^7.1.1",
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -12,7 +17,8 @@
     "redux": "^4.0.1",
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.3.0",
-    "tachyons": "^4.11.1"
+    "tachyons": "^4.11.1",
+    "typescript": "^3.5.3"
   },
   "scripts": {
     "predeploy": "yarn run build",
